@@ -16,6 +16,7 @@ import static org.junit.Assert.assertNotNull;
 
 public class AdditionalOperationTest {
 
+
     NumberListImpl list1;
     NumberListImpl list2;
     NumberListImpl list3;
